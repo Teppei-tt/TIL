@@ -13,3 +13,30 @@ Today I Learned
 ## MarkDown 記法について
 
 [Markdown 記法 チートシート](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa#file-markdown-cheatsheet-md)
+
+# 見出し 1
+
+## 見出し 2
+
+### 見出し 3
+
+#### 見出し 4
+
+##### 見出し 5
+
+###### 見出し 6
+
+段落 1
+(空行)
+段落 2
+
+hoge
+fuga(スペース 2 つ)
+piyo
+
+> 引用  
+> 引用
+>
+> > 多重引用
+
+`print 'hoge'`
