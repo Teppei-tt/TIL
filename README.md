@@ -40,3 +40,62 @@ piyo
 > > 多重引用
 
 `print 'hoge'`
+
+    class Hoge
+        def hoge
+            print 'hoge'
+        end
+    end
+
+class Hoge
+def hoge
+print 'hoge'
+end
+end
+
+hoge
+
+---
+
+hoge
+
+---
+
+## hoge
+
+- リスト 1
+  - リスト 1_1
+    - リスト 1_1_1
+    - リスト 1_1_2
+  - リスト 1_2
+- リスト 2
+- リスト 3
+
+1. 番号付きリスト 1
+   1. 番号付きリスト 1-1
+   1. 番号付きリスト 1-2
+1. 番号付きリスト 2
+1. 番号付きリスト 3
+
+[Google](https://www.google.co.jp/)
+
+これは **ボールド** です
+これは **ボールド** です
+
+これは **_イタリック＆ボールド_** です
+これは **_イタリック＆ボールド_** です
+
+![alt](画像URL)
+![代替文字列](URL "タイトル")
+
+<img src="attach:cat.jpg" alt="attach:cat" title="attach:cat" width="200" height="200">
+
+| TH1 | TH2 |
+| --- | --- |
+| TD1 | TD3 |
+| TD2 | TD4 |
+
+| 左揃え | 中央揃え | 右揃え |
+| :----- | :------: | -----: |
+| 1      |    2     |      3 |
+| 4      |    5     |      6 |
